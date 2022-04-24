@@ -1,0 +1,10 @@
+C:\Users\MARTIN\source\repos\Trabajo meses\Trabajo meses\bin\Debug\Trabajo meses.exe.config
+C:\Users\MARTIN\source\repos\Trabajo meses\Trabajo meses\bin\Debug\Trabajo meses.exe
+C:\Users\MARTIN\source\repos\Trabajo meses\Trabajo meses\bin\Debug\Trabajo meses.pdb
+C:\Users\MARTIN\source\repos\Trabajo meses\Trabajo meses\obj\Debug\Trabajo meses.csproj.AssemblyReference.cache
+C:\Users\MARTIN\source\repos\Trabajo meses\Trabajo meses\obj\Debug\Trabajo_meses.Form1.resources
+C:\Users\MARTIN\source\repos\Trabajo meses\Trabajo meses\obj\Debug\Trabajo_meses.Properties.Resources.resources
+C:\Users\MARTIN\source\repos\Trabajo meses\Trabajo meses\obj\Debug\Trabajo meses.csproj.GenerateResource.cache
+C:\Users\MARTIN\source\repos\Trabajo meses\Trabajo meses\obj\Debug\Trabajo meses.csproj.CoreCompileInputs.cache
+C:\Users\MARTIN\source\repos\Trabajo meses\Trabajo meses\obj\Debug\Trabajo meses.exe
+C:\Users\MARTIN\source\repos\Trabajo meses\Trabajo meses\obj\Debug\Trabajo meses.pdb
